@@ -1,5 +1,5 @@
-# Content-Management-System
-Content Management System (CMS) in PHP is used to create, manage, and improve the digital experience of your customers. A CMS is a piece of software that allows users to collaborate on the creation, editing, and publishing of digital material such blog posts.
+# Blog-Management system
+Blog Management system(BMS) in PHP is used to create, manage, and improve the digital experience of your customers. A BMS is a piece of software that allows users to collaborate on the creation, editing, and publishing of digital material such blog posts.
 
 Prerequisite:
 For using this project you have to create a database using 'cms_project.sql' file.
